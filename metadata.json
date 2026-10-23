@@ -1,0 +1,6 @@
+{
+  "name": "تحميل الميديا",
+  "description": "تطبيق متطور لتحميل مقاطع الفيديو والصور من جميع منصات التواصل الاجتماعي وحفظها مباشرة في المعرض مع دعم السيرفر السحابي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
